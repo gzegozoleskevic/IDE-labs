@@ -1,0 +1,8 @@
+C:\Users\Grzes\Desktop\C# labs\Lab v0.1\Lab v0.1\obj\Debug\Lab v0.1.csprojResolveAssemblyReference.cache
+C:\Users\Grzes\Desktop\C# labs\Lab v0.1\Lab v0.1\bin\Debug\Lab v0.1.exe.config
+C:\Users\Grzes\Desktop\C# labs\Lab v0.1\Lab v0.1\bin\Debug\Lab v0.1.exe
+C:\Users\Grzes\Desktop\C# labs\Lab v0.1\Lab v0.1\bin\Debug\Lab v0.1.pdb
+C:\Users\Grzes\Desktop\C# labs\Lab v0.1\Lab v0.1\bin\Debug\MathNet.Numerics.dll
+C:\Users\Grzes\Desktop\C# labs\Lab v0.1\Lab v0.1\bin\Debug\MathNet.Numerics.xml
+C:\Users\Grzes\Desktop\C# labs\Lab v0.1\Lab v0.1\obj\Debug\Lab v0.1.exe
+C:\Users\Grzes\Desktop\C# labs\Lab v0.1\Lab v0.1\obj\Debug\Lab v0.1.pdb
