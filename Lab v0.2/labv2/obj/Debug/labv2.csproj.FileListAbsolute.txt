@@ -1,0 +1,16 @@
+C:\Users\Grzes\Documents\SharpDevelop Projects\labv2\labv2\obj\Debug\labv2.csprojResolveAssemblyReference.cache
+C:\Users\Grzes\Documents\SharpDevelop Projects\labv2\labv2\bin\Debug\labv2.exe.config
+C:\Users\Grzes\Documents\SharpDevelop Projects\labv2\labv2\bin\Debug\labv2.exe
+C:\Users\Grzes\Documents\SharpDevelop Projects\labv2\labv2\bin\Debug\labv2.pdb
+C:\Users\Grzes\Documents\SharpDevelop Projects\labv2\labv2\bin\Debug\MathNet.Numerics.dll
+C:\Users\Grzes\Documents\SharpDevelop Projects\labv2\labv2\bin\Debug\MathNet.Numerics.xml
+C:\Users\Grzes\Documents\SharpDevelop Projects\labv2\labv2\obj\Debug\labv2.exe
+C:\Users\Grzes\Documents\SharpDevelop Projects\labv2\labv2\obj\Debug\labv2.pdb
+C:\Users\Grzes\Desktop\C# labs\Lab v0.2\labv2\bin\Debug\labv2.exe.config
+C:\Users\Grzes\Desktop\C# labs\Lab v0.2\labv2\bin\Debug\labv2.exe
+C:\Users\Grzes\Desktop\C# labs\Lab v0.2\labv2\bin\Debug\labv2.pdb
+C:\Users\Grzes\Desktop\C# labs\Lab v0.2\labv2\bin\Debug\MathNet.Numerics.dll
+C:\Users\Grzes\Desktop\C# labs\Lab v0.2\labv2\bin\Debug\MathNet.Numerics.xml
+C:\Users\Grzes\Desktop\C# labs\Lab v0.2\labv2\obj\Debug\labv2.csprojResolveAssemblyReference.cache
+C:\Users\Grzes\Desktop\C# labs\Lab v0.2\labv2\obj\Debug\labv2.exe
+C:\Users\Grzes\Desktop\C# labs\Lab v0.2\labv2\obj\Debug\labv2.pdb
